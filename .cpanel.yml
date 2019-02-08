@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+  - export DEPLOYPATH=/home2/net080/public_html/domains/lang/overrides/
+  - /bin/cp -r chinese.php $DEPLOYPATH
