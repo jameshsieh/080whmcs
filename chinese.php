@@ -1890,17 +1890,17 @@ $_LANG['cPanel']['statusSuspendedNotice'] = "需要重新開通.";
 
 $_LANG['cPanel']['billingOverview'] = "帳務總覽";
 
-$_LANG['liveHelp']['chatNow'] = "Chat Now";
+$_LANG['liveHelp']['chatNow'] = "進行線上交談";
 
-$_LANG['quotes'] = "Quotes";
+$_LANG['quotes'] = "報價單";
 
-$_LANG['productMustBeActiveForModuleCmds'] = "Product must be active to perform this action";
-$_LANG['domainCannotBeManagedUnlessActive'] = "This domain is not currently active. Domains cannot be managed unless active.";
+$_LANG['productMustBeActiveForModuleCmds'] = "產品必須被開通來進行這動作";
+$_LANG['domainCannotBeManagedUnlessActive'] = "域名現在不是開通的. 開通之後才能管理.";
 
-$_LANG['actionRequiresAtLeastOneDomainSelected'] = "Please select at least one domain to perform the selected action on.";
+$_LANG['actionRequiresAtLeastOneDomainSelected'] = "請至少選擇一個域名來進行選擇的動作.";
 
-$_LANG['clientAreaProductDownloadsAvailable'] = "The following download items are available for your product/service";
-$_LANG['clientAreaProductAddonsAvailable'] = "Addons are available for your product/service. <a href=\"cart.php?gid=addons\">Click here to view &amp; order &raquo;</a>";
+$_LANG['clientAreaProductDownloadsAvailable'] = "你的產品或服務可下載下面的檔案";
+$_LANG['clientAreaProductAddonsAvailable'] = "符合你的產品/服務的附加服務. <a href=\"cart.php?gid=addons\">觀看或訂購 &amp; order &raquo;</a>";
 $_LANG['clientAreaSecurityTwoFactorAuthRecommendation'] = "We strongly encourage you to enable Two-Factor Authentication for added security.";
 $_LANG['clientAreaSecurityNoSecurityQuestions'] = "Setting a security question and answer helps protect your account from unauthorized password resets and allows us to verify your identity when requesting account changes.";
 $_LANG['clientAreaSecuritySecurityQuestionOtherError'] = "The security question helps protect your account from unauthorized password resets and allows us to verify your identity when requesting account changes.";
