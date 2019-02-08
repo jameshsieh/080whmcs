@@ -1854,7 +1854,7 @@ $_LANG['projectManagement']['activeProjects'] = "Your Active Projects";
 
 $_LANG['cPanel']['packageDomain'] = "方案/網址";
 $_LANG['cPanel']['addonsExtras'] = "Addons & Extras";
-$_LANG['cPanel']['purchaseActivate'] = "購買 & 開通";
+$_LANG['cPanel']['purchaseActivate'] = "購買 & 開通 ";
 
 $_LANG['cPanel']['usageStats'] = "統計資訊";
 $_LANG['cPanel']['diskUsage'] = "空間使用";
