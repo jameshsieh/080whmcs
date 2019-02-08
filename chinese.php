@@ -401,13 +401,13 @@ $_LANG['firstpaymentamount'] = "首期付款金額";
 $_LANG['flashtutorials'] = "Flash Tutorials";
 $_LANG['flashtutorialsdescription'] = "Click here to view tutorials showing you how to use your hosting control panel";
 $_LANG['flashtutorialsheadertext'] = "Our Flash Tutorials are here to help you fully utilise your web hosting control panel. Choose a task from below to see a step by step tutorial on how to complete it.";
-$_LANG['forwardingtogateway'] = "Please wait while you are redirected to the gateway you chose to make payment...";
+$_LANG['forwardingtogateway'] = "我們正在導向到付款閘道，請稍等...";
 $_LANG['globalsystemname'] = "客戶系統";
-$_LANG['globalyouarehere'] = "You are here";
+$_LANG['globalyouarehere'] = "你在這裏 You are here";
 $_LANG['go'] = "Go";
 $_LANG['headertext'] = "歡迎來到技術支援中心！";
 $_LANG['hometitle'] = "首頁";
-$_LANG['imagecheck'] = "Please enter the security code shown in the image - this is required to prevent automated submissions";
+$_LANG['imagecheck'] = "請輸入圖片中的安全碼 - 以便避免有惡意自動提交程序";
 $_LANG['invoiceaddcreditamount'] = "請輸入您想從餘額扣抵的金額";
 $_LANG['invoiceaddcreditapply'] = "使用餘額支付";
 $_LANG['invoiceaddcreditdesc1'] = "您目前帳上餘額尚有";
@@ -1884,9 +1884,9 @@ $_LANG['cPanel']['create'] = "Create";
 $_LANG['cPanel']['emailAccountCreateSuccess'] = "Email 創建成功!";
 $_LANG['cPanel']['emailAccountCreateFailed'] = "Email 創建失敗: ";
 
-$_LANG['cPanel']['packageNotActive'] = "This hosting package is currently";
-$_LANG['cPanel']['statusPendingNotice'] = "You cannot begin using this hosting account until it is activated.";
-$_LANG['cPanel']['statusSuspendedNotice'] = "You cannot continue to use or manage this package until it is reactivated.";
+$_LANG['cPanel']['packageNotActive'] = "現在使用的套餐方案是";
+$_LANG['cPanel']['statusPendingNotice'] = "你無法使用這個虛擬主機直到它被開通.";
+$_LANG['cPanel']['statusSuspendedNotice'] = "需要重新開通.";
 
 $_LANG['cPanel']['billingOverview'] = "帳務總覽";
 
