@@ -1440,7 +1440,7 @@ $_LANG['feedbacksupplyrating'] = "Please supply at least a rating for :staffname
 
 $_LANG['returnclient'] = "返回客戶中心";
 
-$_LANG['clientareanavsecurity'] = "Security Settings";
+$_LANG['clientareanavsecurity'] = "安全設定";
 $_LANG['twofactorauth'] = "Two-Factor Authentication";
 $_LANG['twofaenable'] = "Enable Two-Factor Authentication";
 $_LANG['twofadisable'] = "Disable Two-Factor Authentication";
@@ -2020,7 +2020,7 @@ $_LANG['subaccountpermsproductsso'] = "執行單一登入 Single Sign-On";
 $_LANG['sso']['title'] = "Single Sign-On";
 $_LANG['sso']['summary'] = "Third party applications leverage the Single Sign-On functionality to provide direct access to your billing account without you having to re-authenticate.";
 $_LANG['sso']['disablenotice'] = "You may wish to disable this functionality if you provide access to any of your third party applications to users who you do not wish to be able to access your billing account.";
-$_LANG['sso']['enabled'] = "Single Sign-On is currently permitted for your account.";
+$_LANG['sso']['enabled'] = "單一登入 Single Sign-On 目前是允許的.";
 $_LANG['sso']['disabled'] = "Single Sign-On is currently disabled for your account.";
 $_LANG['sso']['redirectafterlogin'] = "You will be redirected after login";
 
@@ -2246,17 +2246,17 @@ $_LANG['remoteAuthn']['unlinkDesc'] = "This permanently unlinks the authorized a
 $_LANG['remoteAuthn']['mayHaveMultipleLinks'] = "Connect your account with any of the services below to simplify your sign-in experience. We only use this information to verify your account and will never post on your behalf.";
 $_LANG['remoteAuthn']['titleSignUpVerb'] = "Sign Up";
 $_LANG['remoteAuthn']['titleOr'] = "Or";
-$_LANG['remoteAuthn']['titleLinkedAccounts'] = "Linked Accounts";
-$_LANG['remoteAuthn']['provider'] = "Provider";
-$_LANG['remoteAuthn']['name'] = "Name";
-$_LANG['remoteAuthn']['emailAddress'] = "Email Address";
-$_LANG['remoteAuthn']['actions'] = "Actions";
-$_LANG['remoteAuthn']['noLinkedAccounts'] = "No linked accounts found";
-$_LANG['remoteAuthn']['signInWith'] = "Sign in with :provider";
-$_LANG['remoteAuthn']['connectWith'] = "Connect with :provider";
-$_LANG['remoteAuthn']['signUpWith'] = "Sign Up with :provider";
+$_LANG['remoteAuthn']['titleLinkedAccounts'] = "連結其它帳號";
+$_LANG['remoteAuthn']['provider'] = "提供者";
+$_LANG['remoteAuthn']['name'] = "名稱";
+$_LANG['remoteAuthn']['emailAddress'] = "Email 地址";
+$_LANG['remoteAuthn']['actions'] = "動作";
+$_LANG['remoteAuthn']['noLinkedAccounts'] = "沒有連結的帳號";
+$_LANG['remoteAuthn']['signInWith'] = "使用 :provider 登入";
+$_LANG['remoteAuthn']['connectWith'] = "與提供商連結 :provider";
+$_LANG['remoteAuthn']['signUpWith'] = "使用哪個來註冊 :provider";
 
-$_LANG['unlink'] = "Unlink";
+$_LANG['unlink'] = "解除連結";
 
 $_LANG['invoicePaymentSuccessAwaitingNotify'] = "Thank you for completing the payment process. We are awaiting notification to confirm the payment you just made. We will send you an email confirmation as soon as this has been received.";
 
