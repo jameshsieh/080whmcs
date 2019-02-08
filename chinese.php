@@ -1545,13 +1545,13 @@ $_LANG['ssofatalerror'] = "發生嚴重錯誤，請提交服務單或聯繫技�
 # Version 6.0
 
 $_LANG['announcementschoosemonth'] = "選擇月份";
-$_LANG['announcementsbymonth'] = "By Month";
+$_LANG['announcementsbymonth'] = "按月份";
 $_LANG['announcementsolder'] = "較舊的公告";
 $_LANG['createnewcontact'] = "新聯絡人...";
 $_LANG['due'] = "Due";
-$_LANG['affiliatessignups'] = "Signups";
-$_LANG['affiliatesconversionrate'] = "Conversions";
-$_LANG['affiliatesclicks'] = "Clicks";
+$_LANG['affiliatessignups'] = "註冊";
+$_LANG['affiliatesconversionrate'] = "轉換";
+$_LANG['affiliatesclicks'] = "點擊";
 $_LANG['contacts'] = "聯絡人";
 $_LANG['backtoservicedetails'] = "返回服務詳情";
 $_LANG['invoicesintro'] = "您的帳單歷史紀錄";
@@ -1821,16 +1821,16 @@ $_LANG['domaincheckernomoresuggestions'] = "That's all the results we have for y
 $_LANG['domaincheckerunabletooffertld'] = "Unfortunately we are unable to register this TLD at this time";
 $_LANG['domaincheckerbulkplaceholder'] = "Enter up to 20 domain names.\nEach name must be on a separate line.\n\nExamples:\nexample.com\nexample.net";
 
-$_LANG['domainchecker']['suggestiontakentitle'] = "Domain Unavailable";
-$_LANG['domainchecker']['suggestiontakenmsg'] = "Unfortunately the domain you selected is unavailable. This can sometimes occur if the domain has been registered recently. Please go back and choose another domain.";
-$_LANG['domainchecker']['suggestiontakenchooseanother'] = "Choose another domain";
+$_LANG['domainchecker']['suggestiontakentitle'] = "網址無法註冊";
+$_LANG['domainchecker']['suggestiontakenmsg'] = "很不巧的，你輸入的域名現在無法註冊，請試試看其它域名.";
+$_LANG['domainchecker']['suggestiontakenchooseanother'] = "選擇其它域名";
 
-$_LANG['domainchecker']['alreadyincarttitle'] = "Already In Cart";
+$_LANG['domainchecker']['alreadyincarttitle'] = "已在購物車";
 $_LANG['domainchecker']['alreadyincartmsg'] = "This domain is already in your shopping cart. Proceed to checkout now to complete your purchase.";
-$_LANG['domainchecker']['alreadyincartcheckoutnow'] = "Checkout Now";
+$_LANG['domainchecker']['alreadyincartcheckoutnow'] = "現在結算";
 
-$_LANG['genericerror']['title'] = "Oops, something went wrong!";
-$_LANG['genericerror']['msg'] = "Please try again and if the problem persists, please contact our support team.";
+$_LANG['genericerror']['title'] = "Oops, 出問題了!";
+$_LANG['genericerror']['msg'] = "請重試一次, 如果還不OK請與我們聯繫.";
 
 # Licensing Addon
 
@@ -2132,7 +2132,7 @@ $_LANG['filemanagement']['checkAvailableDiskSpace'] = "Please check available di
 $_LANG['filemanagement']['fileAlreadyExists'] = "File already exists.";
 $_LANG['filemanagement']['noUniqueName'] = "Unable to find a unique filename.";
 
-$_LANG['cartSimpleCaptcha'] = "Please enter the code shown below";
+$_LANG['cartSimpleCaptcha'] = "請輸入下面顯示的代碼";
 
 $_LANG['clientHomePanels']['showingRecent100'] = "Showing the most recent 100 records";
 $_LANG['orderForm']['domainLetterOrNumber'] = "Domains must begin with a letter or a number";
@@ -2261,10 +2261,10 @@ $_LANG['unlink'] = "Unlink";
 $_LANG['invoicePaymentSuccessAwaitingNotify'] = "Thank you for completing the payment process. We are awaiting notification to confirm the payment you just made. We will send you an email confirmation as soon as this has been received.";
 
 $_LANG['errorPage']['404']['title'] = "Oops!";
-$_LANG['errorPage']['404']['subtitle'] = "We couldn't find that page";
+$_LANG['errorPage']['404']['subtitle'] = "我們找不到該頁面";
 $_LANG['errorPage']['404']['description'] = "Please try navigating using the options below.";
-$_LANG['errorPage']['404']['home'] = "Homepage";
-$_LANG['errorPage']['404']['submitTicket'] = "Contact Support";
+$_LANG['errorPage']['404']['home'] = "首頁";
+$_LANG['errorPage']['404']['submitTicket'] = "聯繫客服";
 
 $_LANG['creditCard']['removeDescription'] = "Are you sure you wish to remove your credit card details?";
 
@@ -2282,13 +2282,13 @@ $_LANG['cart']['applyCreditAmount'] = "Apply <span>:amount</span> from my credit
 $_LANG['cart']['applyCreditAmountNoFurtherPayment'] = "Apply <span>:amount</span> from my credit balance to this order. No further payment will be due.";
 $_LANG['cart']['applyCreditSkip'] = "Do not apply any credit from my credit balance to this order. I will pay for it using the payment method selected below.";
 
-$_LANG['dateTime']['monday'] = "Monday";
-$_LANG['dateTime']['tuesday'] = "Tuesday";
-$_LANG['dateTime']['wednesday'] = "Wednesday";
-$_LANG['dateTime']['thursday'] = "Thursday";
-$_LANG['dateTime']['friday'] = "Friday";
-$_LANG['dateTime']['saturday'] = "Saturday";
-$_LANG['dateTime']['sunday'] = "Sunday";
+$_LANG['dateTime']['monday'] = "星期一";
+$_LANG['dateTime']['tuesday'] = "星期二";
+$_LANG['dateTime']['wednesday'] = "星期三";
+$_LANG['dateTime']['thursday'] = "星期四";
+$_LANG['dateTime']['friday'] = "星期五";
+$_LANG['dateTime']['saturday'] = "星期六";
+$_LANG['dateTime']['sunday'] = "星期日";
 $_LANG['dateTime']['mon'] = "Mon";
 $_LANG['dateTime']['tue'] = "Tue";
 $_LANG['dateTime']['wed'] = "Wed";
@@ -2300,18 +2300,18 @@ $_LANG['dateTime']['th'] = "th";
 $_LANG['dateTime']['nd'] = "nd";
 $_LANG['dateTime']['rd'] = "rd";
 $_LANG['dateTime']['st'] = "st";
-$_LANG['dateTime']['january'] = "January";
-$_LANG['dateTime']['february'] = "February";
-$_LANG['dateTime']['march'] = "March";
-$_LANG['dateTime']['april'] = "April";
-$_LANG['dateTime']['may'] = "May";
-$_LANG['dateTime']['june'] = "June";
-$_LANG['dateTime']['july'] = "July";
-$_LANG['dateTime']['august'] = "August";
-$_LANG['dateTime']['september'] = "September";
-$_LANG['dateTime']['october'] = "October";
-$_LANG['dateTime']['november'] = "November";
-$_LANG['dateTime']['december'] = "December";
+$_LANG['dateTime']['january'] = "一月";
+$_LANG['dateTime']['february'] = "二月";
+$_LANG['dateTime']['march'] = "三月";
+$_LANG['dateTime']['april'] = "四月";
+$_LANG['dateTime']['may'] = "五月";
+$_LANG['dateTime']['june'] = "六月";
+$_LANG['dateTime']['july'] = "七月";
+$_LANG['dateTime']['august'] = "八月";
+$_LANG['dateTime']['september'] = "九月";
+$_LANG['dateTime']['october'] = "十月";
+$_LANG['dateTime']['november'] = "十一月";
+$_LANG['dateTime']['december'] = "十二月";
 $_LANG['dateTime']['jan'] = "Jan";
 $_LANG['dateTime']['feb'] = "Feb";
 $_LANG['dateTime']['mar'] = "Mar";
